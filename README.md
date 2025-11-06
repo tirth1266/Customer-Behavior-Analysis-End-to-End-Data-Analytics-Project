@@ -140,7 +140,7 @@ Shipping type impacts purchase behaviour (Express users spend more)
 🚀 How to Run the Project
 
 ✅ 1. Clone the Repository
-git clone https://github.com/yourusername/customer-behavior-analysis.git
+git clone: https://github.com/tirth1266/Customer-Behavior-Analysis-End-to-End-Data-Analytics-Project
 cd customer-behavior-analysis
 
 ✅ 2. Install Python Packages
