@@ -1,1 +1,1 @@
-# customer_behaviour_analysis_project
+# Customer Behavior Analysis – End-to-End Data Analytics Project
